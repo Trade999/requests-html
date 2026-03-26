@@ -38,7 +38,7 @@ setup(
         "pyppeteer>=0.2.2",
         "pyquery>=1.4.0",
         "fake-useragent>=0.1.11",
-        "lxml==4.9.0",
+        "lxml",
         "lxml_html_clean==0.4.4",
         "parse>=1.12.0",
         "w3lib>=1.21.0",
